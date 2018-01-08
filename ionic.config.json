@@ -1,0 +1,8 @@
+{
+  "name": "performance-test",
+  "app_id": "fa0ea7a2",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
